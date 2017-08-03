@@ -4,3 +4,15 @@ The code for the paper ['Deep Forecast : Deep Learning-based Spatio-Temporal For
 The code was run on TensorFlow 0.11.0, Keras 1.1.1, and Python 2.7 .
 
 Data is available upon reauest to amir.ghaderi@mavs.uta.edu
+
+
+### Citation 
+```bash
+@inproceedings{ghaderi2017deepforecast,
+  title={Deep Forecast: Deep Learning-based Spatio-Temporal Forecasting},
+  author={Ghaderi, Amir and Sanandaji, Borhan M and Ghaderi, Faezeh},
+  booktitle={The 34th International Conference on Machine Learning (ICML), Time series Workshop},
+  year={2017}
+}
+
+```
