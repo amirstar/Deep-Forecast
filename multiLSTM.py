@@ -221,7 +221,7 @@ class multiLSTM:
                 testInputShape = testInput.shape
                 testInput = np.reshape(testInput, [1, testInputShape[0], testInputShape[1]])
 
-                self.predicted[ind] = self.lstmModels[0].predict(testInput)
+            self.predicted[ind] = self.lstmModels[modelInd].predict(testInput)
 
         return
 
