@@ -3,7 +3,9 @@ The code for the paper ['Deep Forecast : Deep Learning-based Spatio-Temporal For
 
 The code was run on TensorFlow 0.11.0, Keras 1.1.1, and Python 2.7 .
 
-questions: a.ghaderi@gmail.com 
+Data : file MS_winds.dat 
+
+Questions: a.ghaderi@gmail.com 
 
 
 ### Citation 
